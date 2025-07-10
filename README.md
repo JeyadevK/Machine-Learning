@@ -41,7 +41,4 @@ To run the notebooks, you need:
 - Jupyter Notebook / Jupyter Lab
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `nltk` (for sentiment analysis)
 
-Install dependencies using:
-```bash
-pip install -r requirements.txt
 
